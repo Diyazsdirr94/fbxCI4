@@ -6,6 +6,6 @@ class Home extends BaseController
 {
     public function index()
     {
-    echo "JAMES SENPAI!";
+    echo "JAMES SOYOK!";
     }
 }
